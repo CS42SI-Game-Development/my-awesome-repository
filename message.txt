@@ -1,0 +1,12 @@
+CHAT LOG
+-------------------------------------
+
+Lucas: I am so cool. (5/22/2025)
+
+
+
+
+-------------------------------------
+(Add your own message above, and then push your changes to the repository!)
+(Everyone else should be able to pull from this repository, and see your message.)
+(Please do not modify anything above/below the horizontal lines.)
