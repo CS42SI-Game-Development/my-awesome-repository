@@ -5,6 +5,7 @@ Lucas: I am so cool. (5/22/2025)
 Jayden: I like hats. (10/6/2025)
 Ryan: I like Jayden's hats. (10/06/2025)
 Lauren: I like socks. (10/06/2025)
+Tray, Sage, Nolan: We love jackets. (10/06/2025)
 
 -------------------------------------
 (Add your own message above, and then push your changes to the repository!)
