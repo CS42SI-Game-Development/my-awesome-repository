@@ -12,6 +12,5 @@ Jerry: this is fun (10/06/2025)
 Brody: hi (10/06/2025)
 Kana: we are the best group (10/6/2025)
 -------------------------------------
-(Add your own message above, and then push your changes to the repository!)
-(Everyone else should be able to pull from this repository, and see your message.)
-(Please do not modify anything above/below the horizontal lines.)
+(Please don't modify this text file anymore! This was from a past year's CS42SI.)
+(Instead, just make your own text file in this repository and push those changes.)
